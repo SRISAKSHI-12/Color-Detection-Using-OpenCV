@@ -40,8 +40,8 @@ Move the mouse over the image to display the color name and RGB values.
 
 ### Output 1
 
-![Output 1](screenshots/screenshot%20output%201.jpeg)
+![Output 1](screenshots/output1.jpeg)
 
 ### Output 2
 
-![Output 2](screenshots/screenshot%20output%202.jpeg)
+![Output 2](screenshots/output2.jpeg)
