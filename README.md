@@ -30,3 +30,11 @@ Move the mouse over the image to display the color name and RGB values.
 <p align="center">
   <img src="screenshots/output2.jpeg" alt="Output 2" width="700"/>
 </p>
+## 🎥 Demo
+Move your mouse over the image to instantly identify the nearest color along with its RGB values.
+## 🚀 Future Enhancements
+- Upload custom images
+- Display HEX color codes
+- Detect multiple colors simultaneously
+- Save detected color history
+- Develop a GUI using Tkinter
